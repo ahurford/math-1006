@@ -1,9 +1,9 @@
 # MATH 1006: Calculus for the Life Sciences
 
 ## Coding (Optional)
-Learn how to check your answers on a computer
+Learn how to check your answers on a computer:
 - Download [Sage Math](https://doc.sagemath.org/html/en/installation/index.html)
-- Sage Math [Practice 1](https://github.com/ahurford/math-1006/blob/main/code/Practice%201.ipynb)
+- [Practice 1](https://github.com/ahurford/math-1006/blob/main/code/Practice%201.ipynb) for Sage Math
 
 ## See BrightSpace for:
 - syllabus

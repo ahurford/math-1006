@@ -6,6 +6,6 @@
 ## See BrightSpace for:
 - Syllabus
 - lecture capture
-- you grades
+- your grades
 - annoucements
 - material accessible only through MemorialU subscriptions

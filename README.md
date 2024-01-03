@@ -5,7 +5,7 @@ Learn how to check your answers on a computer
 - [Install Sage Math](https://doc.sagemath.org/html/en/installation/index.html)
 - [Practice 1](https://github.com/ahurford/math-1006/blob/main/code/Practice%201.ipynb)
 
-## See BrightSpace for:
+## BrightSpace only
 - syllabus
 - lecture capture
 - your grades

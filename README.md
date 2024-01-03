@@ -8,4 +8,4 @@
 - lecture capture
 - your grades
 - annoucements
-- material accessible only through Memorial U subscriptions
+- material accessible only through Memorial University subscriptions and licences

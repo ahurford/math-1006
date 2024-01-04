@@ -11,3 +11,4 @@ Learn how to check your answers on a computer
 - your grades
 - annoucements
 - material accessible only through Memorial University subscriptions and licences
+- Webwork instructions
